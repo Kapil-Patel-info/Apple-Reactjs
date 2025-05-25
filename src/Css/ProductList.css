@@ -1,0 +1,63 @@
+
+
+.product-card {
+  border-radius: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: #fff;
+  border: none;
+}
+
+.product-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+.product-card img {
+  height: 240px;
+  object-fit: contain;
+  padding: 1rem;
+}
+
+.card-body h4 {
+  font-size: 1.1rem;
+  color: #1D1D1F;
+}
+
+.card-body p {
+  margin: 0;
+}
+
+.card-body .price-monthly {
+  color: #1D1D1F;
+  font-weight: 500;
+}
+
+.card-body .price-full {
+  color: #6e6e73;
+  font-size: 0.85rem;
+}
+
+.buy-button {
+  background-color: #0071e3;
+  border: none;
+  border-radius: 9999px;
+  padding: 8px 20px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: background-color 0.2s ease;
+}
+
+.buy-button:hover {
+  background-color: #005bb5;
+}
+
+
+.designed{
+  color: #6e6e73;
+}
+
+.title{
+  margin-bottom: 1rem !important;
+}
+
+

@@ -1,0 +1,58 @@
+.iphone-section {
+  padding: 2rem;
+  overflow-x: hidden;
+  height: 90vh;
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.scroll-container {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1rem;
+  padding-bottom: 1rem;
+
+}
+
+.feature-card {
+  flex: 0 0 auto;
+  width: 350px;
+  border-radius: 20px;
+  padding: 1rem;
+  scroll-snap-align: start;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+ margin-right: 40px;
+}
+
+.feature-card:hover {
+  transform: scale(1.02);
+}
+
+.text-section h5 {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.text-section h3 {
+  font-size: 1.25rem;
+  margin-top: 0.25rem;
+}
+
+.feature-image {
+  margin-top: auto;
+  width: 100%;
+  object-fit: contain;
+  border-radius: 12px;
+}
+
+
+
+.iphone-poster{
+    border:  2px solid black;
+}

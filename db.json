@@ -1,0 +1,682 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 15 Pro",
+      "description": "The iPhone 15 Pro delivers unparalleled performance with the powerful A17 chip, an advanced Pro camera system, and a stunning Super Retina XDR display. Designed for efficiency and elegance, it offers all-day battery life and next-gen connectivity.",
+      "category": "iphone",
+      "image": "https://inspireonline.in/cdn/shop/files/iPhone_15_Pro_Natural_Titanium_PDP_Image_Position-1__en-IN.jpg?v=1694757939&width=2890",
+      "specification": {
+        "chip": "A17 Pro",
+        "display": "6.1-inch Super Retina XDR",
+        "camera": "48MP main camera",
+        "battery": "Up to 23 hours video playback",
+        "storage": "128GB, 256GB, 512GB, 1TB"
+      },
+      "price": 134900,
+      "color": "Natural Titanium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "USB-C to Lightning Cable"
+    },
+    {
+      "id": 91,
+      "title": "iPhone 13 Pro",
+      "description": "The iPhone 13 Pro delivers unparalleled performance with the powerful A17 chip, an advanced Pro camera system, and a stunning Super Retina XDR display. Designed for efficiency and elegance, it offers all-day battery life and next-gen connectivity.",
+      "category": "iphone",
+      "image": "https://iplanet.one/cdn/shop/files/iPhone_13_Pro_Max_Alpine_Green_PDP_Image_Position-1A__en-US.jpg?v=1691139724&width=1445",
+      "specification": {
+        "chip": "A17 Pro",
+        "display": "6.1-inch Super Retina XDR",
+        "camera": "48MP main camera",
+        "battery": "Up to 23 hours video playback",
+        "storage": "128GB, 256GB, 512GB, 1TB"
+      },
+      "price": 99900,
+      "color": "Natural gold",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "USB-C to Lightning Cable"
+    },
+    {
+      "id": 94,
+      "title": "iPhone 16",
+      "description": "The iPhone 16 delivers unparalleled performance with the powerful A17 chip, an advanced Pro camera system, and a stunning Super Retina XDR display. Designed for efficiency and elegance, it offers all-day battery life and next-gen connectivity.",
+      "category": "iphone",
+      "image": "https://inspireonline.in/cdn/shop/files/iPhone_15_Pro_Natural_Titanium_PDP_Image_Position-1__en-IN.jpg?v=1694757939&width=2890",
+      "specification": {
+        "chip": "A17 Pro",
+        "display": "6.1-inch Super Retina XDR",
+        "camera": "48MP main camera",
+        "battery": "Up to 23 hours video playback",
+        "storage": "128GB, 256GB, 512GB, 1TB"
+      },
+      "price": 79900,
+      "color": "blue",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "USB-C to Lightning Cable"
+    },
+    {
+      "id": 994,
+      "title": "iPhone 11",
+      "description": "The iPhone 11 delivers unparalleled performance with the powerful A17 chip, an advanced Pro camera system, and a stunning Super Retina XDR display. Designed for efficiency and elegance, it offers all-day battery life and next-gen connectivity.",
+      "category": "iphone",
+      "image": "https://inspireonline.in/cdn/shop/files/iPhone_15_Pro_Natural_Titanium_PDP_Image_Position-1__en-IN.jpg?v=1694757939&width=2890",
+      "specification": {
+        "chip": "A17 Pro",
+        "display": "6.1-inch Super Retina XDR",
+        "camera": "48MP main camera",
+        "battery": "Up to 23 hours video playback",
+        "storage": "128GB, 256GB, 512GB, 1TB"
+      },
+      "price": 39900,
+      "color": "blue",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "USB-C to Lightning Cable"
+    },
+    {
+      "id": 93,
+      "title": "iPhone 12 mini",
+      "description": "The iPhone 12 mini delivers unparalleled performance with the powerful A17 chip, an advanced Pro camera system, and a stunning Super Retina XDR display. Designed for efficiency and elegance, it offers all-day battery life and next-gen connectivity.",
+      "category": "iphone",
+      "image": "https://media.croma.com/image/upload/v1688730635/Croma%20Assets/Communication/Mobiles/Images/234255_qkyqry.png",
+      "specification": {
+        "chip": "A13 Pro",
+        "display": "6.1-inch Super Retina XDR",
+        "camera": "48MP main camera",
+        "battery": "Up to 23 hours video playback",
+        "storage": "128GB, 256GB, 512GB, 1TB"
+      },
+      "price": 44900,
+      "color": "blue",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "USB-C to Lightning Cable"
+    },
+    {
+      "id": 2,
+      "title": "MacBook Pro M4",
+      "description": "Experience power and portability with the MacBook Pro 14\" powered by the M3 Pro chip. It's designed for creative professionals and developers who need extreme performance, exceptional graphics, and a Liquid Retina XDR display.",
+      "category": "macbook",
+      "image": "https://inspireonline.in/cdn/shop/files/r1587_Space_Grey_PDP_Image_Position-1__en-IN_c4657fd0-de6f-4506-a373-66b55824e0cb.jpg?v=1691422669&width=1445",
+      "specification": {
+        "chip": "Apple M3 Pro",
+        "display": "14.2-inch Liquid Retina XDR",
+        "memory": "16GB, 32GB, 64GB",
+        "storage": "512GB, 1TB, 2TB",
+        "battery": "Up to 18 hours"
+      },
+      "price": 199900,
+      "color": "Space Black",
+      "warranty": "1 year",
+      "releaseDate": "March 2024",
+      "accessoriesIncluded": "Charger, User Manual"
+    },
+    {
+      "id": 112,
+      "title": "MacBook Pro M1",
+      "description": "Experience power and portability with the MacBook Pro 14\" powered by the M3 Pro chip. It's designed for creative professionals and developers who need extreme performance, exceptional graphics, and a Liquid Retina XDR display.",
+      "category": "macbook",
+      "image": "https://www.designinfo.in/wp-content/uploads/2023/10/Apple-13.6-MacBook-Air-M2-Silver-1.webp",
+      "specification": {
+        "chip": "Apple M1 Pro",
+        "display": "14.2-inch Liquid Retina XDR",
+        "memory": "16GB, 32GB, 64GB",
+        "storage": "512GB, 1TB, 2TB",
+        "battery": "Up to 18 hours"
+      },
+      "price": 149900,
+      "color": "Space Black",
+      "warranty": "1 year",
+      "releaseDate": "March 2024",
+      "accessoriesIncluded": "Charger, User Manual"
+    },
+    {
+      "id": 113,
+      "title": "MacBook Pro M4",
+      "description": "Experience power and portability with the MacBook Pro 14\" powered by the M3 Pro chip. It's designed for creative professionals and developers who need extreme performance, exceptional graphics, and a Liquid Retina XDR display.",
+      "category": "macbook",
+      "image": "https://inspireonline.in/cdn/shop/files/r1587_Space_Grey_PDP_Image_Position-1__en-IN_c4657fd0-de6f-4506-a373-66b55824e0cb.jpg?v=1691422669&width=1445",
+      "specification": {
+        "chip": "Apple M1 Pro",
+        "display": "14.2-inch Liquid Retina XDR",
+        "memory": "16GB, 32GB, 64GB",
+        "storage": "512GB, 1TB, 2TB",
+        "battery": "Up to 18 hours"
+      },
+      "price": 159900,
+      "color": "Space Black",
+      "warranty": "1 year",
+      "releaseDate": "March 2024",
+      "accessoriesIncluded": "Charger, User Manual"
+    },
+    {
+      "id": 3,
+      "title": "iPad Air",
+      "description": "The iPad Air is a versatile tablet designed for work and play. With its ultra-fast chip, vibrant display, and support for Apple Pencil and Magic Keyboard, it brings creativity and productivity to your fingertips.",
+      "category": "ipad",
+      "image": "https://www.imagineonline.store/cdn/shop/files/iPad_Air_13_M2_WiFi_Purple_PDP_Image_Position_1__en-IN.jpg?v=1716469586&width=2890",
+      "specification": {
+        "chip": "M1",
+        "display": "10.9-inch Liquid Retina",
+        "camera": "12MP wide, 12MP front",
+        "storage": "64GB, 256GB",
+        "accessories": "Apple Pencil (2nd gen), Magic Keyboard"
+      },
+      "price": 59900,
+      "color": "Purple",
+      "warranty": "1 year",
+      "releaseDate": "March 2022",
+      "accessoriesIncluded": "USB-C Cable"
+    },
+    {
+      "id": 2243,
+      "title": "iPad Air 11",
+      "description": "The iPad Air is a versatile tablet designed for work and play. With its ultra-fast chip, vibrant display, and support for Apple Pencil and Magic Keyboard, it brings creativity and productivity to your fingertips.",
+      "category": "ipad",
+      "image": "https://www.imagineonline.store/cdn/shop/files/iPad_Air_Wi-Fi_Space_Gray_PDP_Image_Position-1a__en-US_032022_grande.jpg?v=1705479803",
+      "specification": {
+        "chip": "M1",
+        "display": "10.9-inch Liquid Retina",
+        "camera": "12MP wide, 12MP front",
+        "storage": "64GB, 256GB",
+        "accessories": "Apple Pencil (2nd gen), Magic Keyboard"
+      },
+      "price": 59900,
+      "color": "Purple",
+      "warranty": "1 year",
+      "releaseDate": "March 2022",
+      "accessoriesIncluded": "USB-C Cable"
+    },
+    {
+      "id": 223,
+      "title": "iPad Air 11",
+      "description": "The iPad Air is a versatile tablet designed for work and play. With its ultra-fast chip, vibrant display, and support for Apple Pencil and Magic Keyboard, it brings creativity and productivity to your fingertips.",
+      "category": "ipad",
+      "image": "https://www.imagineonline.store/cdn/shop/files/iPad_Air_Wi-Fi_Space_Gray_PDP_Image_Position-1a__en-US_032022_grande.jpg?v=1705479803",
+      "specification": {
+        "chip": "M1",
+        "display": "10.9-inch Liquid Retina",
+        "camera": "12MP wide, 12MP front",
+        "storage": "64GB, 256GB",
+        "accessories": "Apple Pencil (2nd gen), Magic Keyboard"
+      },
+      "price": 59900,
+      "color": "Purple",
+      "warranty": "1 year",
+      "releaseDate": "March 2022",
+      "accessoriesIncluded": "USB-C Cable"
+    },
+    {
+      "id": 229,
+      "title": "iPad Air 12",
+      "description": "The iPad Air is a versatile tablet designed for work and play. With its ultra-fast chip, vibrant display, and support for Apple Pencil and Magic Keyboard, it brings creativity and productivity to your fingertips.",
+      "category": "ipad",
+      "image": "https://www.imagineonline.store/cdn/shop/files/iPad_Air_Wi-Fi_Space_Gray_PDP_Image_Position-1a__en-US_032022_grande.jpg?v=1705479803",
+      "specification": {
+        "chip": "M2",
+        "display": "10.9-inch Liquid Retina",
+        "camera": "12MP wide, 12MP front",
+        "storage": "64GB, 256GB",
+        "accessories": "Apple Pencil (2nd gen), Magic Keyboard"
+      },
+      "price": 79900,
+      "color": "Purple",
+      "warranty": "1 year",
+      "releaseDate": "March 2022",
+      "accessoriesIncluded": "USB-C Cable"
+    },
+    {
+      "id": 444,
+      "title": "iPad Air 10",
+      "description": "The iPad Air is a versatile tablet designed for work and play. With its ultra-fast chip, vibrant display, and support for Apple Pencil and Magic Keyboard, it brings creativity and productivity to your fingertips.",
+      "category": "ipad",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrZtX1DdDFTZzj9LnMTz3VgivkH1w5gt1iUPvhNhvSwE_OZn12iBNmO1wkbOkDv9LazAEuuh2V3hZ8E3TrXw8XBpBImveO",
+      "specification": {
+        "chip": "M2",
+        "display": "10.9-inch Liquid Retina",
+        "camera": "12MP wide, 12MP front",
+        "storage": "64GB, 256GB",
+        "accessories": "Apple Pencil (2nd gen), Magic Keyboard"
+      },
+      "price": 89900,
+      "color": "Purple",
+      "warranty": "1 year",
+      "releaseDate": "March 2022",
+      "accessoriesIncluded": "USB-C Cable"
+    },
+    {
+      "id": 445,
+      "title": "iPad Air 9",
+      "description": "The iPad Air is a versatile tablet designed for work and play. With its ultra-fast chip, vibrant display, and support for Apple Pencil and Magic Keyboard, it brings creativity and productivity to your fingertips.",
+      "category": "ipad",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSBI-vwhSFTa0fsxTK-9h_K6WCyGmpydCdNcYMqUN8a9TF1BXNYOiGrgR4Oigb88nfQqxRDrqCjQ6Iy95lZRsjvL6U6aA-bu5PqKq_drPRXHLh62AdkIC84Ow",
+      "specification": {
+        "chip": "M2",
+        "display": "10.9-inch Liquid Retina",
+        "camera": "12MP wide, 12MP front",
+        "storage": "64GB, 256GB",
+        "accessories": "Apple Pencil (2nd gen), Magic Keyboard"
+      },
+      "price": 89900,
+      "color": "Purple",
+      "warranty": "1 year",
+      "releaseDate": "March 2022",
+      "accessoriesIncluded": "USB-C Cable"
+    },
+    {
+      "id": 224,
+      "title": "AirPods Pro",
+      "description": "Enjoy immersive sound with AirPods Pro featuring active noise cancellation, adaptive transparency, and spatial audio. Designed for all-day comfort and convenience with sweat and water resistance.",
+      "category": "airpods AirPods (3st generation)",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Finventstore.in%2Fproduct%2Fairpods-pro-2%2F&psig=AOvVaw3F4d4sYMv8H8OomRAIfrcq&ust=1748016282294000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNja56C6t40DFQAAAAAdAAAAABAL",
+      "specification": {
+        "features": "Active Noise Cancellation, Adaptive Transparency",
+        "battery": "Up to 6 hours listening time",
+        "charging": "MagSafe charging case",
+        "resistance": "IPX4 sweat and water resistance"
+      },
+      "price": 24900,
+      "color": "White",
+      "warranty": "1 year",
+      "releaseDate": "October 2022",
+      "accessoriesIncluded": "Charging Case"
+    },
+    {
+      "id": 225,
+      "title": "AirPods (2st generation)",
+      "description": "Enjoy immersive sound with AirPods Pro featuring active noise cancellation, adaptive transparency, and spatial audio. Designed for all-day comfort and convenience with sweat and water resistance.",
+      "category": "airpods",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUYG3_AV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=WTRYbjBsN3ZmS0w4d21lbU55WFVGbFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUTZPRHZvK1FMZ2NJUlMzcllXU25pQVE",
+      "specification": {
+        "features": "Active Noise Cancellation, Adaptive Transparency",
+        "battery": "Up to 6 hours listening time",
+        "charging": "MagSafe charging case",
+        "resistance": "IPX4 sweat and water resistance"
+      },
+      "price": 14900,
+      "color": "White",
+      "warranty": "1 year",
+      "releaseDate": "October 2022",
+      "accessoriesIncluded": "Charging Case"
+    },
+    {
+      "id": 23326,
+      "title": "AirPods (1st generation)",
+      "description": "Enjoy immersive sound with AirPods Pro featuring active noise cancellation, adaptive transparency, and spatial audio. Designed for all-day comfort and convenience with sweat and water resistance.",
+      "category": "airpods",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/airpods-283043511-16x9_0.jpg?VersionId=e6YKshWXTXtk62ylmIaxXiMFcpiptXsq&size=690:388",
+      "specification": {
+        "features": "Active Noise Cancellation, Adaptive Transparency",
+        "battery": "Up to 6 hours listening time",
+        "charging": "MagSafe charging case",
+        "resistance": "IPX4 sweat and water resistance"
+      },
+      "price": 12900,
+      "color": "White",
+      "warranty": "1 year",
+      "releaseDate": "October 2022",
+      "accessoriesIncluded": "Charging Case"
+    },
+    {
+      "id": 24429,
+      "title": "AirPods max custom",
+      "description": "Enjoy immersive sound with AirPods Pro featuring active noise cancellation, adaptive transparency, and spatial audio. Designed for all-day comfort and convenience with sweat and water resistance.",
+      "category": "airpods",
+      "image": "https://www.designinfo.in/wp-content/uploads/2024/04/Apple-AirPods-Max-Sky-Blue-1.webp",
+      "specification": {
+        "features": "Active Noise Cancellation, Adaptive Transparency",
+        "battery": "Up to 6 hours listening time",
+        "charging": "MagSafe charging case",
+        "resistance": "IPX4 sweat and water resistance"
+      },
+      "price": 59900,
+      "color": "White",
+      "warranty": "1 year",
+      "releaseDate": "October 2022",
+      "accessoriesIncluded": "Charging Case"
+    },
+    {
+      "id": 2329,
+      "title": "AirPods max",
+      "description": "Enjoy immersive sound with AirPods Pro featuring active noise cancellation, adaptive transparency, and spatial audio. Designed for all-day comfort and convenience with sweat and water resistance.",
+      "category": "airpods",
+      "image": "https://icreststore.in/wp-content/uploads/2025/03/airpods-max-select-202409-midnight_FV1.jpg",
+      "specification": {
+        "features": "Active Noise Cancellation, Adaptive Transparency",
+        "battery": "Up to 6 hours listening time",
+        "charging": "MagSafe charging case",
+        "resistance": "IPX4 sweat and water resistance"
+      },
+      "price": 59900,
+      "color": "White",
+      "warranty": "1 year",
+      "releaseDate": "October 2022",
+      "accessoriesIncluded": "Charging Case"
+    },
+    {
+      "id": 229,
+      "title": "AirPods pro new",
+      "description": "Enjoy immersive sound with AirPods Pro featuring active noise cancellation, adaptive transparency, and spatial audio. Designed for all-day comfort and convenience with sweat and water resistance.",
+      "category": "airpods",
+      "image": "https://shop.broot.in/cdn/shop/products/aqq_4e283cd1-7ee4-45eb-ba96-85221db32f14.jpg?v=1614409868",
+      "specification": {
+        "features": "Active Noise Cancellation, Adaptive Transparency",
+        "battery": "Up to 6 hours listening time",
+        "charging": "MagSafe charging case",
+        "resistance": "IPX4 sweat and water resistance"
+      },
+      "price": 27900,
+      "color": "White",
+      "warranty": "1 year",
+      "releaseDate": "October 2022",
+      "accessoriesIncluded": "Charging Case"
+    },
+    {
+      "id": 5,
+      "title": "Apple Watch Series 8 wifi",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://www.imagineonline.store/cdn/shop/files/Apple_Watch_Series_9_LTE_45mm_Midnight_Aluminium_Midnight_Sport_Band_PDP_Image_Position-1__en-IN.jpg?v=1698865707&width=2890",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 41900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 59755,
+      "title": "Apple Watch ultra e-sim",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXKC3ref_VW_34FR+watch-case-49-titanium-natural-ultra2_VW_34FR+watch-face-49-milanese-ultra2_VW_34FR_GEO_IN?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=YlNZOW5NU2VmdEZBeVJVTFRuclNNSGpDV2hhem5qNnpDenFtKzI1OXdzYkpncG05NXptdno5VmVNOFY1RGFaTE96dTRSSXdkWit3NnU2Q1orZWxLbVFnM2swYzVsWGtwUkFKeGltK0RJcHVKMzVHQU53cFVUelYrV3JJNGlpUGZWZ1NPQnZkTnZhYlBvQ1dGWFFwamh5MjhMYVZFYTFlcFJKV0FFbFFNUTlmaXNzN1gwWXh2Wlc0N3lLeEU5VmwxMERibkdGK0RaNG04MDVsUzljdlg2QQ",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 89900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 5755,
+      "title": "Apple Watch ultra",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://iplanet.one/cdn/shop/files/Apple_Watch_Ultra_LTE_49mm_Titanium_Midnight_Ocean_Band_PDP_Image_Position-1__en-US_d302ba68-2f2b-4960-b957-61418421fc6c.jpg?v=1698874131&width=1920",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 89900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 5455,
+      "title": "Apple Watch Series 8 e-sim",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/25547938/2023/10/26/aaa78cda-b157-4bfb-a2ee-6c3632e489bd1698324273908AppleWatchSeries9GPSCellular41mmREDCaseREDSportBand-MediumLa1.jpg",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 49900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 555,
+      "title": "Apple Watch Series 10 e-sim",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/25547938/2023/10/26/aaa78cda-b157-4bfb-a2ee-6c3632e489bd1698324273908AppleWatchSeries9GPSCellular41mmREDCaseREDSportBand-MediumLa1.jpg",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 52900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 556,
+      "title": "Apple Watch Series 10",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/25547938/2023/10/26/aaa78cda-b157-4bfb-a2ee-6c3632e489bd1698324273908AppleWatchSeries9GPSCellular41mmREDCaseREDSportBand-MediumLa1.jpg",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 45900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 5717,
+      "title": "Apple Watch Series 8",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-Solar-Analog-watch-face-230912_inline.jpg.large.jpg",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 35900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 578,
+      "title": "Apple Watch Series 9",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-silver-aluminum-Solo-Loop-olive-230912_inline.jpg.large.jpg",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 45900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 57899,
+      "title": "Apple Watch Series 9 e-sim",
+      "description": "Track your health, fitness, and stay connected with the Apple Watch Series 9. Featuring a brighter display, advanced health sensors, and improved Siri integration, it’s your ultimate companion for wellness and productivity.",
+      "category": "watch",
+      "image": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-silver-aluminum-Solo-Loop-olive-230912_inline.jpg.large.jpg",
+      "specification": {
+        "chip": "S9 SiP",
+        "display": "Always-On Retina",
+        "health": "ECG, Blood Oxygen, Heart Rate",
+        "battery": "Up to 18 hours",
+        "features": "GPS, water resistance"
+      },
+      "price": 49900,
+      "color": "Midnight Aluminium",
+      "warranty": "1 year",
+      "releaseDate": "September 2023",
+      "accessoriesIncluded": "Sport Band"
+    },
+    {
+      "id": 6,
+      "title": "Macbook Air M2",
+      "description": "The iMac 24\" combines powerful performance with a sleek, colorful design. Featuring the M3 chip and a stunning 4.5K Retina display, it's perfect for work, entertainment, and everything in between.",
+      "category": "macbook",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/719C6bJv8jL._SL1500_.jpg",
+      "specification": {
+        "chip": "Apple M3",
+        "display": "24-inch 4.5K Retina",
+        "memory": "8GB, 16GB",
+        "storage": "256GB, 512GB, 1TB",
+        "camera": "1080p FaceTime HD"
+      },
+      "price": 134900,
+      "color": "Colorful",
+      "warranty": "1 year",
+      "releaseDate": "April 2023",
+      "accessoriesIncluded": "Power Adapter"
+    },
+    {
+      "id": 7,
+      "title": "iPhone 16 Pro Max",
+      "description": "Experience the future of smartphones with the iPhone 16 Pro Max. Featuring the powerful A18 Bionic chip, an advanced quad-camera system, and a stunning 6.9-inch Super Retina XDR display. Designed for speed, photography, and all-day battery life.",
+      "category": "iphone",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPBTD5jl3u_S0RNp4iUIZesI5lNw7t7o8YvndZKGTov_8Glbs6OczcCl1l32snQBr_eektpZU4xkaKZWkYb7Vc2iSbw40wDCXvteti8hUTiaTaqMEHjHZjvVGi",
+      "specification": {
+        "chip": "A18 Bionic",
+        "display": "6.9-inch Super Retina XDR",
+        "camera": "Quad 48MP + 12MP + 12MP + LiDAR",
+        "storage": "256GB, 512GB, 1TB",
+        "battery": "Up to 30 hours video playback",
+        "features": "Face ID, 5G, MagSafe, iOS 18"
+      },
+      "price": 159900,
+      "color": "Graphite",
+      "warranty": "1 year",
+      "releaseDate": "September 2024",
+      "accessoriesIncluded": "USB-C to Lightning Cable"
+    },
+    {
+      "id": 8,
+      "title": "iPad",
+      "description": "The Magic Keyboard for iPad delivers an exceptional typing experience with a floating cantilever design, full-sized keys, and a built-in trackpad. It attaches magnetically and offers smooth angle adjustment for perfect viewing.",
+      "category": "ipad",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRn4ndf6WMGmLpZ9stefpFd26e2D1qX_xF-W97L-efg6vOxkaoCKyqGb7lnx_o7Yyb8q9JUzejJZku0QBQoq3_PCcJwERRJJ5wHtTjnjQgqPY3YbaNJNmQ-",
+      "specification": {
+        "type": "Wireless / Magnetic Attachment",
+        "features": "Backlit keys, Trackpad, USB-C passthrough, Floating design",
+        "compatibility": "iPad Pro 11-inch & 12.9-inch, iPad Air (M1 & M2)",
+        "color": "White, Black"
+      },
+      "price": 29900,
+      "color": "White",
+      "warranty": "1 year",
+      "releaseDate": "April 2023",
+      "accessoriesIncluded": "User Manual"
+    },
+    {
+      "id": 9,
+      "title": "iPhone 14",
+      "description": "The iPhone 14 offers powerful performance, improved battery life, and advanced safety features. With a dual-camera system and sleek design, it's a solid choice for everyday use.",
+      "category": "iphone",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQzSuxsZr4LrUWFfGuB7rTIF5N6ICZBJBtro6LvYstlkh6JmQE2czj_ZZkQJqcSEVnm_x3DS0FvZT2lxDODURmOwmXB1wrxf77xaa1f0SAPzDneD9LpxwVW4CI",
+      "specification": {
+        "chip": "A15 Bionic",
+        "display": "6.1-inch Super Retina XDR",
+        "camera": "12MP dual-camera system",
+        "battery": "Up to 20 hours video playback",
+        "storage": "128GB, 256GB, 512GB"
+      },
+      "price": 69900,
+      "color": "Midnight",
+      "warranty": "1 year",
+      "releaseDate": "September 2022",
+      "accessoriesIncluded": "USB-C to Lightning Cable"
+    },
+    {
+      "id": 10,
+      "title": "MacBook Air M3",
+      "description": "The MacBook Air M2 redefines performance and portability. It's incredibly thin, lightweight, and powerful with a long-lasting battery and a brilliant Liquid Retina display.",
+      "category": "macbook",
+      "image": "https://www.imagineonline.store/cdn/shop/files/MacBook_Air_15_in_M3_Space_Grey_PDP_Image_Position_1__en-IN_e41e162d-4485-45a9-934c-f55f32e7d3a7.jpg?v=1709593875&width=823",
+      "specification": {
+        "chip": "Apple M2",
+        "display": "13.6-inch Liquid Retina",
+        "memory": "8GB, 16GB, 24GB",
+        "storage": "256GB, 512GB, 1TB, 2TB",
+        "battery": "Up to 18 hours"
+      },
+      "price": 114900,
+      "color": "Space Grey",
+      "warranty": "1 year",
+      "releaseDate": "June 2023",
+      "accessoriesIncluded": "Charger, User Manual"
+    },
+    {
+      "id": 1213,
+      "title": "MacBook air M1",
+      "description": "Experience power and portability with the MacBook Pro 14\" powered by the M3 Pro chip. It's designed for creative professionals and developers who need extreme performance, exceptional graphics, and a Liquid Retina XDR display.",
+      "category": "macbook",
+      "image": "https://inspireonline.in/cdn/shop/files/r1587_Space_Grey_PDP_Image_Position-1__en-IN_c4657fd0-de6f-4506-a373-66b55824e0cb.jpg?v=1691422669&width=1445",
+      "specification": {
+        "chip": "Apple M1 Pro",
+        "display": "14.2-inch Liquid Retina XDR",
+        "memory": "16GB, 32GB, 64GB",
+        "storage": "512GB, 1TB, 2TB",
+        "battery": "Up to 18 hours"
+      },
+      "price": 129900,
+      "color": "Space Black",
+      "warranty": "1 year",
+      "releaseDate": "March 2024",
+      "accessoriesIncluded": "Charger, User Manual"
+    },
+    {
+      "id": 1413,
+      "title": "MacBook air M1",
+      "description": "Experience power and portability with the MacBook Pro 14\" powered by the M3 Pro chip. It's designed for creative professionals and developers who need extreme performance, exceptional graphics, and a Liquid Retina XDR display.",
+      "category": "macbook",
+      "image": "https://inspireonline.in/cdn/shop/files/r1587_Space_Grey_PDP_Image_Position-1__en-IN_c4657fd0-de6f-4506-a373-66b55824e0cb.jpg?v=1691422669&width=1445",
+      "specification": {
+        "chip": "Apple M1 Pro",
+        "display": "14.2-inch Liquid Retina XDR",
+        "memory": "16GB, 32GB, 64GB",
+        "storage": "512GB, 1TB, 2TB",
+        "battery": "Up to 18 hours"
+      },
+      "price": 129900,
+      "color": "Space Black",
+      "warranty": "1 year",
+      "releaseDate": "March 2024",
+      "accessoriesIncluded": "Charger, User Manual"
+    }
+  ]
+}
